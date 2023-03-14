@@ -1,0 +1,11 @@
+DoobieVsDoom
+evolintentSwipeTest 
+
+Android 5 (API level 21) and above.
+Download, Install and Run.
+Basic Swiping test for Mobile development.
+Swipe left, right, up, down for various movement options.
+Includes square obstacles to test collision detection.
+
+Once downloaded and installed,
+Open and user can swipe for various character movements.

@@ -1,0 +1,14 @@
+DoobieVsDoom
+EVOL AYRR 
+
+Android 7 (API level 24) and above.
+Download, Install and Run.
+Basic Augmented Reality test for Mobile development.
+Requires a Marker to initiate (marker-based augmented reality).
+Marker of Marilyn Munroe used to initiate appearance of Character.
+Marker is included in repository.
+Swipe left, right, up, down for various character movements.
+
+Once downloaded and installed,
+direct camera at Marilyn Munroe marker on screen.
+Character will appear and user can swipe for character movement.
